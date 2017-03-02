@@ -7,14 +7,15 @@
 
 
 #####使用viewpager的效果图
-![ScreenGif.gif](http://upload-images.jianshu.io/upload_images/1168278-6251c3888cfee878.gif?imageMogr2/auto-orient/strip)
+![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif1.gif)
 
 #####自定义View的效果图
-![ScreenGif.gif](http://upload-images.jianshu.io/upload_images/1168278-6353eda9daf7a9ea.gif?imageMogr2/auto-orient/strip)
+![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif1.gif2)
 
 ###简书地址
 [点击这里](http://www.jianshu.com/p/49b14d2574b1)
 #使用
+    https://github.com/superSp/ScrollChooseView/edit/master/README.md
 ````
  String titles[] = new String[]{"早餐前", "早餐后", "午餐前", "午餐后", "晚餐前", "晚餐后", "睡前"};
  private int picIds[] = new int[]{
