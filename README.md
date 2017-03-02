@@ -15,7 +15,7 @@
 ###简书地址
 [点击这里](http://www.jianshu.com/p/49b14d2574b1)
 #使用
-    https://github.com/superSp/ScrollChooseView/edit/master/README.md
+    compile 'com.github.superSp:ScrollChooseView:v1.0.2'
 ````
  String titles[] = new String[]{"早餐前", "早餐后", "午餐前", "午餐后", "晚餐前", "晚餐后", "睡前"};
  private int picIds[] = new int[]{
