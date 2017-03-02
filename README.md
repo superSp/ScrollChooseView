@@ -10,7 +10,7 @@
 ![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif1.gif)
 
 #####自定义View的效果图
-![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif1.gif2)
+![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif2.gif)
 
 ###简书地址
 [点击这里](http://www.jianshu.com/p/49b14d2574b1)
