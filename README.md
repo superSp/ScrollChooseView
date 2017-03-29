@@ -1,21 +1,17 @@
 # ScrollChooseView
 横向滑动选择view，类似ViewPager+clipChildren实现的可以同时显示3个页面的View。
 
-####图纸
+####图纸</br>
+![图片.png](http://upload-images.jianshu.io/upload_images/1168278-53a7e6ea6843d815.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)</br>
+#####使用viewpager的效果图</br>
+![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif1.gif)</br>
+#####自定义View的效果图</br>
+![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif2.gif)</br>
 
-![图片.png](http://upload-images.jianshu.io/upload_images/1168278-53a7e6ea6843d815.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-#####使用viewpager的效果图
-![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif1.gif)
-
-#####自定义View的效果图
-![ScreenGif.gif](https://github.com/superSp/ScrollChooseView/blob/master/gif2.gif)
-
-###简书地址
-[点击这里](http://www.jianshu.com/p/49b14d2574b1)
-#使用
-    compile 'com.github.superSp:ScrollChooseView:v1.0.2'
+###简书地址</br>
+[点击这里](http://www.jianshu.com/p/49b14d2574b1)</br>
+#使用</br>
+`compile 'com.github.superSp:ScrollChooseView:v1.0.2'`
 ````
  String titles[] = new String[]{"早餐前", "早餐后", "午餐前", "午餐后", "晚餐前", "晚餐后", "睡前"};
  private int picIds[] = new int[]{
