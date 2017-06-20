@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/superSp/ScrollChooseView.svg)](https://jitpack.io/#superSp/ScrollChooseView)
 # ScrollChooseView
 横向滑动选择view，类似ViewPager+clipChildren实现的可以同时显示3个页面的View。
 
